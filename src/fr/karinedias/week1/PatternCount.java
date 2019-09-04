@@ -25,7 +25,7 @@ public class PatternCount {
 		File data = new File(file);
 	}
 
-	public int patternCount(String Text, String Pattern) {
+	public static int patternCount(String Text, String Pattern) {
 
 		int count = 0;
 		for (int i = 0; i <= Text.length() - Pattern.length(); i++) {
