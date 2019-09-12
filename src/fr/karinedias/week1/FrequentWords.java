@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 
+//TODO: implement FrequentWords with set data types.
+
 public class FrequentWords extends PatternCount {
 
 	/*
